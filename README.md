@@ -1,7 +1,3 @@
-# microservices-collection
-Mikroservis Koleksiyonu
-
-
 # 🚀 Mikroservis Koleksiyonu
 
 Bu repo, tüm mikroservisleri listelemektedir.  
@@ -16,7 +12,13 @@ Aşağıdaki komutları kullanarak tüm mikroservisleri kolayca klonlayabilirsin
 - **Stock Service:** [stock-service](https://github.com/my-microservice-project/stock-service)
 - **Cart Service:** [cart-service](https://github.com/my-microservices/cart-service)
 
-## 🔥 Tek Komutla Tüm Mikroservisleri Klonlama
+## 🔥 İki Komutla Tüm Mikroservisleri Klonlama ve Kurma
 
+## 📌 Dosya izni verme:
 ```sh
-git clone --recurse-submodules https://github.com/my-microservice-project/microservices-collection.git
+chmod +x install.sh
+```
+## 📌 Kurulum:
+```sh
+./install.sh
+```
