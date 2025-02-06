@@ -19,4 +19,4 @@ Aşağıdaki komutları kullanarak tüm mikroservisleri kolayca klonlayabilirsin
 ## 🔥 Tek Komutla Tüm Mikroservisleri Klonlama
 
 ```sh
-git clone --recurse-submodules https://github.com/my-microservices/microservices-collection.git
+git clone --recurse-submodules https://github.com/my-microservice-project/microservices-collection.git
