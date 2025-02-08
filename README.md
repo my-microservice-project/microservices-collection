@@ -11,6 +11,7 @@ Aşağıdaki komutları kullanarak tüm mikroservisleri kolayca klonlayabilirsin
 - **Product Service:** [product-service](https://github.com/my-microservice-project/product-service)
 - **Stock Service:** [stock-service](https://github.com/my-microservice-project/stock-service)
 - **Cart Service:** [cart-service](https://github.com/my-microservice-project/cart-service)
+- **Campaign Service:** [campaign-service](https://github.com/my-microservice-project/campaign-service)
 
 ## 🔥 İki Komutla Tüm Mikroservisleri Klonlama ve Kurma
 

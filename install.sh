@@ -6,6 +6,7 @@ repos=(
     "product-service"
     "stock-service"
     "cart-service"
+    "campaign-service"
 )
 
 for repo in "${repos[@]}"; do
